@@ -21,6 +21,7 @@ Identifying potential outliers
 Correlation analysis to assess relationships between variables
 
 *Key Findings*
+
 Store area and items available show a weak correlation with sales.
 Daily customer count has little impact on revenue.
 Cluster analysis suggests four optimal store groupings.
